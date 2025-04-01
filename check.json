@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "CustomObject2__c",
+        "referenceId": "ref1"
+      },
+      "Accounta2__c": "001A700000459jMIAQ",
+      "ActualAmount__c": 50000,
+      "TargetAmount__c": 500000,
+      "CS2__c": {
+        "records": [
+          {
+            "attributes": {
+              "type": "CustomObject1__c",
+              "referenceId": "ref2"
+            },
+            "Name": "04.超值特餐49起",
+            "PromotionPlan__c": "12.超值特餐(POS/APP)",
+            "PromotionStartDate__c": "2024-12-10T00:00:00",
+            "PromotionEndDate__c": "2024-12-31T00:00:00",
+            "OwnerId": "005BK0000053OkoYAE"
+          }
+        ]
+      }
+    }
+  ]
+}

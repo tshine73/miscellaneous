@@ -1,0 +1,80 @@
+{
+  "session_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4",
+  "outputs": [
+    {
+      "inputs": {
+        "input_value": "share with me the lyric of any song"
+      },
+      "outputs": [
+        {
+          "results": {
+            "message": {
+              "text_key": "text",
+              "data": {
+                "text": "I'd be happy to generate some lyrics for you. However, please note that I'll need to draw from my training data, which includes a vast corpus of text, including song lyrics",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "session_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4",
+                "files": [
+                ],
+                "timestamp": "2024-12-09 10:45:35",
+                "flow_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4"
+              },
+              "default_value": "",
+              "text": "I'd be happy to generate some lyrics for you. However, please note that I'll need to draw from my training data, which includes a vast corpus of text, including song lyrics",
+              "sender": "Machine",
+              "sender_name": "AI",
+              "files": [
+              ],
+              "session_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4",
+              "timestamp": "2024-12-09 10:45:35",
+              "flow_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4"
+            }
+          },
+          "artifacts": {
+            "message": "I'd be happy to generate some lyrics for you. However, please note that I'll need to draw from my training data, which includes a vast corpus of text, including song lyrics",
+            "sender": "Machine",
+            "sender_name": "AI",
+            "files": [
+            ],
+            "type": "object"
+          },
+          "outputs": {
+            "message": {
+              "message": {
+                "text": "I'd be happy to generate some lyrics for you. However, please note that I'll need to draw from my training data, which includes a vast corpus of text, including song lyrics",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "session_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4",
+                "files": [
+                ],
+                "timestamp": "2024-12-09 10:45:35",
+                "flow_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4"
+              },
+              "type": "object"
+            }
+          },
+          "logs": {
+            "message": [
+            ]
+          },
+          "messages": [
+            {
+              "message": "I'd be happy to generate some lyrics for you. However, please note that I'll need to draw from my training data, which includes a vast corpus of text, including song lyrics",
+              "sender": "Machine",
+              "sender_name": "AI",
+              "session_id": "065b57b8-5061-4f23-acb9-1ff27b39a9c4",
+              "component_id": "ChatOutput-DQht3",
+              "files": [
+              ],
+              "type": "message"
+            }
+          ],
+          "component_display_name": "Chat Output",
+          "component_id": "ChatOutput-DQht3",
+          "used_frozen_result": false
+        }
+      ]
+    }
+  ]
+}
