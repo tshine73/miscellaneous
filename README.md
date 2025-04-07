@@ -1,4 +1,4 @@
-# blog deployment
+# blog monitor deployment
 
 ```bash
 rm deployment_blog_package.zip

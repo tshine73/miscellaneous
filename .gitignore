@@ -188,3 +188,6 @@ fabric.properties
 # lambda deploy usage
 deployment/*
 credentials/*
+
+# pypiserver
+pypiserver/packages/*
