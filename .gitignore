@@ -184,10 +184,3 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 .idea/*
-
-# lambda deploy usage
-deployment/*
-credentials/*
-
-# pypiserver
-pypiserver/packages/*
